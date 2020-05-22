@@ -9,6 +9,7 @@ menu:
   navigation:
     identifier: _contact
     weight: 5
+    title: KONTAK
 
 ---
 ## Hours of Operation

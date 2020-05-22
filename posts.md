@@ -8,6 +8,7 @@ menu:
   navigation:
     identifier: _posts
     weight: 4
+    title: POSTINGAN
   footer:
     identifier: _posts
     weight: 2
