@@ -10,11 +10,11 @@ fields:
   config:
     required: true
 - type: text
-  label: Hero Heading
   name: heading
-  default: BENING ABADI
+  default: ''
   config:
     required: true
+  label: BENING ABADI
 - type: text
   name: sub_heading
   label: Hero Sub heading
