@@ -11,14 +11,14 @@ fields:
     required: true
 - type: text
   name: heading
-  default: ''
+  default: BENING ABADI
   config:
     required: true
-  label: BENING ABADI
+  label: HERO HEADING
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: GUEST HOUSE
 - type: file
   name: banner_image
   label: Hero Image
