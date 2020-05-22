@@ -13,6 +13,8 @@ fields:
   label: Hero Heading
   name: heading
   default: BENING ABADI
+  config:
+    required: true
 - type: text
   name: sub_heading
   label: Hero Sub heading
